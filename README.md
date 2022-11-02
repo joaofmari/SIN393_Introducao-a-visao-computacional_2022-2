@@ -44,6 +44,20 @@ ________________
 * Slides
 * Notebook
 
+# Configurando o ambiente de desenvolvimento
+
+* instalar o Anaconda Disctribution
+
+* Criar um ambiente de execuçaõ virtual
+    
+    ```$ conda create -n sin393-2022-py38 python=3.8```
+
+    ```$ conda activate sin393-2022-py38```
+
+* Instalar as bibliotecas necessárias
+
+    ``` $ conda install numpy scikit-image scikit-learn matplotlib pandas seaborn notebook ```
+
 
 # Bibligrafia
 
