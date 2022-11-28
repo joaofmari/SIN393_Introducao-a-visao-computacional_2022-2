@@ -1,8 +1,8 @@
 # SIN-393 - Introducao à visão computacional (2022-2)
 
-## Prof. João Fernando Mari (joaofmari.github.io)
-
-________________
+### Prof. João Fernando Mari ([*joaofmari.github.io*](https://joaofmari.github.io/))
+### (*em progresso...*)
+---
 
 ## Aula 01 - Imagens digitais
 ---
@@ -11,44 +11,46 @@ ________________
 
 ## Aula 02 - Introdução ao Python
 ---
-* Slides
-* Notebook
+* [Notebook](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2002%20-%20Introdu%C3%A7%C3%A3o%20ao%20Python.ipynb)
 
 ## Aula 03 - Introdução ao NumPy
 ---
-* Slides
-* Notebook
+* [Notebook](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2003%20-%20Introdu%C3%A7%C3%A3o%20ao%20NumPy.ipynb)
 
 ## Aula 04 - Classificação de imagens
 ---
-* Slides
-* Notebook
+* [Slides](/slides/Aula04.ClassificacaoDeImagens.(2022-2).pdf)
+* [Notebook](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2004%20-%20Classifica%C3%A7%C3%A3o%20de%20imagens.ipynb)
 
 ## Aula 05 - Redes neurais artificiais 1
 ---
-* Slides
-* Notebook
+* [Slides](/slides/Aula05.RedesNeuraisArtificiais.1.(2022-2).pdf)
+* [Notebook](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2005%20-%20Redes%20Neurais%20Artificiais%201.ipynb)
 
 ## Aula 06 - Redes neurais artificiais 2
 ---
-* Slides
-* Notebook
+* [Slides](/slides/Aula06.RedesNeuraisArtificiais.2.(2022-2).pdf)
+* [Notebook](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2006%20-%20Redes%20Neurais%20Artificiais%202.ipynb)
 
 ## Aula 07 - Classificadores: K-nn, Bayes e SVM
 ---
-* Slides
-* Notebook
+* [Notebook](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2007%20-%20Classificadores%20K-NN%2C%20Bayes%20e%20SVM.ipynb)
 
 ## Aula 08 - Redes neurais convolucionais
 ---
-* Slides
-* Notebook
+* [Slides](/slides/Aula08.RedesNeuraisConvolucionais.(2022-2).pdf)
+* [Notebook - Parte 1]()
+* [Notebook - Parte 1 - Colab](https://colab.research.google.com/drive/1jlgl6d03pyJeG2WGiVwUtnTmyu0w6Evi?usp=sharing)
+* [Notebook - Parte 2]()
+* [Notebook - Parte 2 - Colab](https://colab.research.google.com/drive/1PjQlQMFNMJNn9HuK3YgK4xqcd200PnsG?usp=sharing)
+
+
 
 # Configurando o ambiente de desenvolvimento
 
-* instalar o Anaconda Disctribution
+* instalar o Anaconda Distribution
 
-* Criar um ambiente de execuçaõ virtual
+* Criar um ambiente de execução virtual
     
     ```$ conda create -n sin393-2022-py38 python=3.8```
 
@@ -60,6 +62,25 @@ ________________
 
 
 # Bibligrafia
+
+* GONZALEZ, R.C.; WOODS, R.E. Processamento de Imagens Digitais. 3. ed. Pearson, 2010.
+* COSTA, L.F.; CÉSAR-JR., R.M. Shape analysis and classification: Theory and practice. 1. ed. CRC Press, 2000.
+* RUSSEL, S.J.; NORVIG, P. Inteligência Artificial. 2.ed. Campus, 2004.
+* DUDA, R.O.; HART, P.E.; STORK, D.G. Pattern Classification. Wiley, 2001. 
+* CHITYALA, R.; PUDIPEDDI, S. Image processing and acquisition using Python. CRC Press, 2014.
+* MARQUES FILHO, O.; VIEIRA NETO, H. Processamento digital de imagens. Brasport, 1999.
+    * http://dainf.ct.utfpr.edu.br/~hvieir/pub.html   
+* PONTI, M. Everything you wanted to know about Deep Learning for Computer Vision but were afraid to ask. SIBGRAPI 2017 Tutorial.
+    * http://conteudo.icmc.usp.br/pessoas/moacir/p17sibgrapi-tutorial/  
+* PONTI, M; COSTA, G. B. P. Como funciona o Deep Learning. Computer Vision and Pattern Recognition. 2017.
+    * https://arxiv.org/abs/1806.07908  
+* CS231n: Convolutional Neural Networks for Visual Recognition.
+    * http://cs231n.stanford.edu/ 
+* GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. Deep Learning. MIT Press, 2016. 
+    * http://www.deeplearningbook.org 
+* NIELSEN, M. Neural Networks and Deep Learning. Livro On-Line. 
+    * http://neuralnetworksanddeeplearning.com  
+
 
 
 # Ferramentas computacionais
@@ -82,9 +103,8 @@ ________________
 
 # Edições anteriores da disciplina
 
-
-
-
+* [2018-2](https://github.com/joaofmari/computer-vision/tree/master/sin393-2018)
+* [2019-2](https://github.com/joaofmari/computer-vision/tree/master/sin393-2019)
 
 # Citação
 
