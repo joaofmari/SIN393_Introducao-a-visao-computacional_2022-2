@@ -39,9 +39,9 @@
 ## Aula 08 - Redes neurais convolucionais
 ---
 * [Slides](/slides/Aula08.RedesNeuraisConvolucionais.(2022-2).pdf)
-* [Notebook - Parte 1]()
+* [Notebook - Parte 1](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2008%20-%20Redes%20Neurais%20Convolucionais%20(Parte%201).ipynb)
 * [Notebook - Parte 1 - Colab](https://colab.research.google.com/drive/1jlgl6d03pyJeG2WGiVwUtnTmyu0w6Evi?usp=sharing)
-* [Notebook - Parte 2]()
+* [Notebook - Parte 2](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2008%20-%20Redes%20Neurais%20Convolucionais%20(Parte%202).ipynb)
 * [Notebook - Parte 2 - Colab](https://colab.research.google.com/drive/1PjQlQMFNMJNn9HuK3YgK4xqcd200PnsG?usp=sharing)
 
 
