@@ -45,6 +45,17 @@
 * [Notebook - Parte 2 - Colab](https://colab.research.google.com/drive/1PjQlQMFNMJNn9HuK3YgK4xqcd200PnsG?usp=sharing)
 
 
+## Aula 09 - Detecção e reconhecimento de objetos
+---
+* [Slides](/slides/Aula09.DeteccaoDeObjetos.(2022-2).pdf)
+* [Notebook - Parte 1]()
+* [Notebook - Parte 2]()
+
+## Aula 10 - Segmentação semântica
+---
+* [Slides](/slides/Aula10.SegmentacaoSemantica.(2022-2).pdf)
+* [Notebook]()
+
 
 # Configurando o ambiente de desenvolvimento
 
@@ -59,6 +70,8 @@
 * Instalar as bibliotecas necessárias
 
     ``` $ conda install numpy scikit-image scikit-learn matplotlib pandas seaborn notebook ```
+
+    ``` $ pip install opencv-python ```
 
 
 # Bibligrafia
