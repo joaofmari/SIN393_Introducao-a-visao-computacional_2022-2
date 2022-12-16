@@ -1,7 +1,6 @@
 # SIN-393 - Introducao à visão computacional (2022-2)
 
 ### Prof. João Fernando Mari ([*joaofmari.github.io*](https://joaofmari.github.io/))
-### (*em progresso...*)
 ---
 
 ## Aula 01 - Imagens digitais
@@ -48,13 +47,13 @@
 ## Aula 09 - Detecção e reconhecimento de objetos
 ---
 * [Slides](/slides/Aula09.DeteccaoDeObjetos.(2022-2).pdf)
-* [Notebook - Parte 1]()
-* [Notebook - Parte 2]()
+* [Notebook - Parte 1](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2009%20-%20Detec%C3%A7%C3%A3o%20e%20reconhecimento%20de%20objetos%20(Parte%201).ipynb)
+* [Notebook - Parte 2](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2009%20-%20Detec%C3%A7%C3%A3o%20e%20reconhecimento%20de%20objetos%20(Parte%202).ipynb)
 
 ## Aula 10 - Segmentação semântica
 ---
 * [Slides](/slides/Aula10.SegmentacaoSemantica.(2022-2).pdf)
-* [Notebook]()
+* [Notebook](https://github.com/joaofmari/SIN393_Introducao-a-visao-computacional_2022-2/blob/main/notebooks/Aula%2010%20-%20Segmenta%C3%A7%C3%A3o%20sem%C3%A2ntica.ipynb)
 
 
 # Configurando o ambiente de desenvolvimento
@@ -72,6 +71,15 @@
     ``` $ conda install numpy scikit-image scikit-learn matplotlib pandas seaborn notebook ```
 
     ``` $ pip install opencv-python ```
+
+* PyTorch. 
+    * Instalação no Ubuntu com GPU.
+    * Para instalação no Windows ou sem GPU, consultar [pytorch.org](https://pytorch.org/).
+
+    ```$ conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia```
+
+    ```$ pip install -U albumentations```
+
 
 
 # Bibligrafia
